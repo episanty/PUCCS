@@ -7,7 +7,7 @@ Perceptually Uniform Cyclic Color Scale
 
 
 
-PUCCS is a cyclic color scale that attempts to keep a better perceptual uniformity than the standard hue map. It has been designed using some of the tools provided by Peter Kovesi in 'Good Colour Maps: How to Design Them' (arXiv:1509.03700, 2015).
+PUCCS is a cyclic color scale that attempts to keep a better perceptual uniformity than the standard hue map. It has been designed using some of the tools provided by Peter Kovesi in 'Good Colour Maps: How to Design Them' ([arXiv:1509.03700](https://arxiv.org/abs/1509.03700), 2015).
 
 It consists of the following files:
 
