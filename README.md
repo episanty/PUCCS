@@ -12,7 +12,7 @@ PUCCS is a cyclic color scale that attempts to keep a better perceptual uniformi
 It consists of the following files:
 
  - The main notebook file, `PUCCS.nb`, a Mathematica notebook containing the function definitions and some benchmark plots.
- - A PDF and a plaintext (`.m`) printout of the main notebook file.
+ - A plaintext (`.m`) printout of the main notebook file.
  - A data file, `Data.csv` containing the color points of the function, in CIE LAB and RGB spaces. (Both coordinates in Mathematica conventions - you may need to multiply the LAB values by 100 and the RGB values by 255, or convert to hexadecimal, to import them into your application.)
  - Several benchmarking images:
  
